@@ -1,1 +1,5 @@
-# This is my README
+# Fire Fire Fire
+
+game for One Game A Month - theme fire
+
+Copyright (c) 2015 Raphael Stary
